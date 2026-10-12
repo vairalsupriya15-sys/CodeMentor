@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+# Keep local database and secrets out of GitHub
+data/database.json
+.env
+.env.*
+!.env.example

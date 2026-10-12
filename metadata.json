@@ -1,0 +1,6 @@
+{
+  "name": "CodeMentor - Peer Code Review Platform",
+  "description": "MERN-stack peer code review platform with interactive code inspections, line-by-line feedback, review status tracking, and developer reputation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
